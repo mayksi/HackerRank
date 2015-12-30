@@ -1,6 +1,6 @@
 # HackerRank
 
-As the name would suggest (partially) this repo is about solution to HackerRank problems.
+As the name would suggest (partially) this repository is about solution to HackerRank problems.
 
 In addition to that, I would check-in more problems/solutions in folder tagged 'more' under their respective topics.
 
